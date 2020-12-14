@@ -10,3 +10,4 @@
 ### 2. Business Objectives:
 - Hoàn thành các tính năng của mỗi người dùng trực tiếp.
 - Đáp ứng nhu cầu được đưa ra của mỗi người dùng.
+- Mức độ bảo mật thông tin đối với người dùng nói chung và khách hàng nói riêng
